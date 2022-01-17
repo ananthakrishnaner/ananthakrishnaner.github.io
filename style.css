@@ -51,7 +51,7 @@ a:focus {
     color: #1d9b6c;
 }
 .light {
-    font-weight: 400;
+    font-weight: 300;
 }
 .navbar-custom {
     margin-bottom: 0;
@@ -137,7 +137,7 @@ a:focus {
     vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-    font-size: 40px;
+    font-size: 30px;
     text-shadow: 1px 1px #000000;
 }
 .intro .intro-body .intro-text {
